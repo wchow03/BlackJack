@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class BlackJack {
-
     // Player starts with $100
     public static int bankroll = 100;
     public static boolean playAgain = true;
